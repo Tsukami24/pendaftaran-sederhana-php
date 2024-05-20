@@ -15,7 +15,6 @@
     if (!$_SESSION['user_login']) {
         header("Location: login.php");
     }       
-    
     $user = $_SESSION['user_login'];
     ?>
 

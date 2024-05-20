@@ -8,7 +8,7 @@
 </head>
 <body>
 
-    <div class="container">
+<div class="container">
     
 <form action="handler_register.php" method="post">
 
@@ -27,13 +27,13 @@
         <input type="password" name="password">
     </div>
 
-    <button type="submit">register</button>
+    <button type="submit">Register</button>
 
 </form>
 
 <a href="login.php">Login</a>
 
-    </div>
+</div>
 
 </body>
 </html>
